@@ -1,4 +1,4 @@
-# Battery Reader (Arduino Nano)
+# Battery Monitor (Arduino Nano)
 
 A voltage monitoring system for LiFePO₄ battery packs.
 

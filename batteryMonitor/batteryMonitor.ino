@@ -4,10 +4,10 @@
 /*
 Author: Andrew Britten
 Date: 07 May 2026
-Title: Battery Reader (16S LFP Voltage Monitor)
+Title: Battery monitor (16S LFP Voltage Monitor)
 
 Description:
-Simple battery voltage reader for 16S LiFePO₄ pack.
+Simple battery voltage monitor for 16S LiFePO₄ pack.
 Displays voltage + SOC on OLED and triggers alarm
 when battery drops below threshold.
 
