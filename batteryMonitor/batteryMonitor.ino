@@ -57,7 +57,7 @@ Adafruit_SSD1306 display(128, 64, &Wire, -1);
 #define VOLTAGE_DIVIDER_RATIO 20.0
 
 // small calibration trim (your 48V fix)
-#define CAL_FACTOR 1.0058
+#define CAL_FACTOR 1.0108 //Calibrated to gokart 5V PDB.
 
 // ======================================================
 // LPF
